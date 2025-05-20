@@ -24,6 +24,6 @@ This repository contains two simple Python programs as part of **Module 2: Basic
 
 Below is an image showing the output of both programs:
 
-![Assignment Output](Assignment1.jpeg)
+![Assignment Output](Assignment1.jpg)
 
 ---
